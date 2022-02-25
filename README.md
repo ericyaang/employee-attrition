@@ -1,3 +1,17 @@
+# Directory structure
+```bash
+employee-attrition/
+├── data.py       - data processing utilities
+├── eval.py       - evaluation components
+├── main.py       - training/optimization operations
+├── models.py     - model architectures
+├── predict.py    - inference utilities
+├── test.pkl      - training utilities
+└── train.pkl      - supplementary utilities
+```
+
+
+
 # Reducing employees turnover 
 
 Managing a human capital department in a large corporation. 
@@ -73,4 +87,4 @@ Create a report answering this questions:
 
 2.Hussain, T. & Deery, S. Why do self-initiated expatriates quit their jobs: The role of job embeddedness and shocks in explaining turnover intentions. International Business Review 27, 281–288 (2018).
 
-3.Qudrat-Ullah, H. Improving Human Performance in Dynamic Tasks: Applications in Management and Industry. (Springer International Publishing, 2020). doi:10.1007/978-3-030-28166-3.
+3.Qudrat-Ullah, H. Improving Human Performance in Dynamic Tasks: Applications in Management and Industry. (Springer International Publishing, 2020). doi:10.1007/978-3-030-28166-3
