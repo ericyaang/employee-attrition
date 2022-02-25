@@ -1,7 +1,7 @@
 # Reducing employees attrition 
 
 ## Table of Contents
-* [Motivation] (#motivation)
+* [Motivation](#motivation)
 * [Directory structure](#description)
 * [Results](#results)
 * [Licensing, Authors, Acknowledgements](#licensing)
