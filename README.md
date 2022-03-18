@@ -10,6 +10,11 @@ The purpose of this report is to describe results obtained from a model that pre
 
 <img src="images/tenure_prop.png" width="600"/>
 
+<img src="images/exp_dep.png" width="600"/>
+
+<img src="images/corr_leavers.png" width="600"/>
+
+
 ## *Why is this a problem?*
 
 1. It is difficult to find suitable replacements for employees
