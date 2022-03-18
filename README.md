@@ -4,7 +4,8 @@ The purpose of this report is to describe results obtained from a model that pre
 
 ![How many?](left.png)
 
-![Top departments with attrited employees](/images/rank_dep.png)
+<img src="/images/rank_dep.png" width="600"/>
+
 
 
 ## *Why is this a problem?*
