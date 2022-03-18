@@ -3,16 +3,11 @@
 ![How many?](left.png)
 
 <img src="/images/rank_dep.png" width="600"/>
-
 <img src="/images/prom.png" width="450"/>
-
-<img src="/images/prob_dep.png" width="600"/> <img src="/images/prob_sal.png" width="600"/>
-
-
+<img src="/images/prob_dep.png" width="600"/>
+<img src="/images/prob_sal.png" width="600"/>
 <img src="images/tenure_prop.png" width="600"/>
-
 <img src="images/exp_dep.png" width="600"/>
-
 <img src="images/corr_leavers.png" width="600"/>
 
 
