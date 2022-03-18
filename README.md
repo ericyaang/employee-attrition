@@ -4,6 +4,8 @@ The purpose of this report is to describe results obtained from a model that pre
 
 ![How many?](left.png)
 
+![Top departments with attrited employees](/images/rank_dep.png.png)
+
 
 ## *Why is this a problem?*
 
@@ -22,11 +24,13 @@ The purpose of this report is to describe results obtained from a model that pre
 
 ![Confusion Matrix](output.png)
 
+<img src="images/glm.png" width="600"/>
+
 <img src="images/fe_rf.png" width="600"/>
 
 <img src="images/fe_lgbm.png" width="600"/>
 
-<img src="images/glm.png" width="600"/>
+
 
 
 ## Recomendations for retention
