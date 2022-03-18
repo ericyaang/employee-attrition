@@ -24,6 +24,7 @@ The purpose of this report is to describe results obtained from a model that pre
 
 <img src="images/fe_rf.png" width="600"/>
 
+<img src="images/fe_lgbm.png" width="600"/>
 
 ## Recomendations for retention
 
