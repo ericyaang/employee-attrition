@@ -2,6 +2,9 @@
 
 The purpose of this report is to describe results obtained from a model that predicts and identifies employees that will likely churn.
 
+![How many?](left.png)
+
+
 ## *Why is this a problem?*
 
 1. It is difficult to find suitable replacements for employees
