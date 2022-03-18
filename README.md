@@ -16,7 +16,8 @@ The purpose of this report is to describe results obtained from a model that pre
 
 ## Results
 
-[Confusion Matrix](output.png)
+
+![Confusion Matrix](output.png)
 
 ## Recomendations for retention:
 
