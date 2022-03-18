@@ -14,37 +14,22 @@ The purpose of this report is to describe results obtained from a model that pre
 
 5. Loss of an employee costs money. Churn rates can be as high as 12-15% annually.
 
-## Table of Contents
-* [Motivation](#motivation)
-* [Directory structure](#description)
-* [Results](#results)
-* [Reference](#references)
-
-## Project Motivation <a name="motivation"></a>
-
-## File Description <a name="description"></a>
-
-```bash
-employee-attrition/
-├── employee_attrition.ipynb - main notebook
-├── segment_employee.ipynb  - clustering segments with k-means
-├── EDA.ipynb     - exploratory analysis
-└── Model Final.sav     - final model for later use
-```
 ## Results
 
-## Recomendations for retention
+[Confusion Matrix](output.png)
+
+## Recomendations for retention:
+
+Build programs targeting issues such as...
 
 - Reward and recognition
 - Promotion and oportunity to grow
 - Participation in decision making
 - Work life and balance
 - Work envrionment
-- Investing in training and developtment
+- Investing in training and development
 - Leadership
 - Job security
-- Set a maximum acceptable rate for turnover (benchmark with the industry rate)
-[29% in 2021](https://www.apollotechnical.com/employee-retention-statistics/)
 
 ## Reference
 
