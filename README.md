@@ -21,6 +21,7 @@ The purpose of this report is to describe results obtained from a model that pre
 
 
 ![Confusion Matrix](output.png)
+
 ![Feature Importance](image/../images/fe_rf.pngoutput.png)
 ## Recomendations for retention
 
